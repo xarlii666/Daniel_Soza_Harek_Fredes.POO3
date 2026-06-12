@@ -23,6 +23,9 @@ Polimorfismo: El método calcular_precio se llama igual en las tres subclases, p
 5. El sistema debe validar que los precios ingresados sean números y no texto.
 6. Al elegir la opción de salir (opcion 4) el programa debe terminar de forma limpia y controlada sin errores.
 
+4. las pruebas de usuario estan en un archivo distinto dentro del repositorio.
+   
+
 
 
 
