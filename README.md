@@ -24,13 +24,6 @@ Polimorfismo: El método calcular_precio se llama igual en las tres subclases, p
 6. Al elegir la opción de salir (opcion 4) el programa debe terminar de forma limpia y controlada sin errores.
 
 
-4. Pruebas de Usuario
-accion realizada | resultado esperado | resultado obtenido | cumple? |
-intentar pagar una orden que no tiene productos | debe mostrar el mensaje de error: "no puedes pagar una orden vacia" | mostro el error en pantalla y no dejo pagar | SI |
-agregar un pastel "Venti" con precio base de 1000 | el precio final debe ser 1600 | el precio calculado fue 1600 | SI |
-buscar un producto que no existe en el catálogo | Debe salir el mensaje: "El producto no existe en el catalogo" | Se mostro el mensaje de error correctamente | SI |
-presionar la opcion 4 en el menu | el programa debe despedirse y cerrarse | SI |
-
 
 
 
